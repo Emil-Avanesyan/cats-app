@@ -1,0 +1,15 @@
+header {
+  padding: 10px 40px;
+  background-color: #95c4d8;
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+
+  .main_logo {
+    img {
+      object-fit: contain;
+    }
+  }
+}

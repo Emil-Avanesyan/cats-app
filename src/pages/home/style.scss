@@ -1,0 +1,14 @@
+.home_page {
+  display: flex;
+  flex-direction: row;
+  padding-top: 40px;
+  margin-bottom: 40px;
+
+  .inform_text {
+    width: 100%;
+    color: var(--blue-dark);
+    h1 {
+      text-align: center;
+    }
+  }
+}
